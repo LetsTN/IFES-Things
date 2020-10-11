@@ -6,7 +6,7 @@
   <h1 align="center">IFES things</h1>
 
   <p align="center">
-    Repositório contendo uma lista de projetos desenvolvidos nas matérias ou projetos do IFES
+    Lista de projetos desenvolvidos nas matérias ou projetos do IFES
   </p>
 </p>
 
